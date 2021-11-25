@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: My projects
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Some projects I've been working on.
